@@ -3,10 +3,6 @@
 # 🧑‍💻 Jihyun An | 안지현
 
 AI/Computer Vision Engineer 🧠  
-실험 설계와 정리, 공유를 좋아합니다!
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-jihyun--0611-black?logo=github)](https://github.com/jihyun-0611)
-[![Solved.ac Badge](http://mazassumnida.wtf/api/mini/generate_badge?boj=jihyun0611)](https://solved.ac/deva_9999)
 
 </div>
 
@@ -17,17 +13,21 @@ AI/Computer Vision Engineer 🧠
 🍀 **기록 노트**: [Notion / Obsidian 정리 예정]  
 📘 **기술 블로그**: [your-blog.com](https://your-blog.com) (작성 중)
 
----
+🛠️ **Recent Projects**
 
-## 📊 GitHub Stats
+- 🎯 [Skeleton Tracking 자세 평가 시스템](https://github.com/jihyun-0611/track-fit).
 
-<div align="center">
 
-[![jihyun-0611's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun-0611&show_icons=true&theme=tokyonight)](https://github.com/jihyun-0611)
+- 🧠 [LLM 기반 민감 발언 탐지 시스템](https://github.com/jihyun-0611/level4-hackathon/tree/refactor-36/improve-model-performance-of-reward-system/reward_systems)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun-0611&layout=compact&theme=tokyonight)](https://github.com/jihyun-0611)
 
-</div>
+- 🦴 [손뼈 이미지 분할 프로젝트](https://github.com/jihyun-0611/level2-semanticsegmentation)
+
+
+- 🧃 [재활용 품목 Object Detection](https://github.com/jihyun-0611/level2-objectdetection)
+
+
+
 
 ---
 
