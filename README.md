@@ -21,8 +21,7 @@ AI/Computer Vision Engineer 🧠
 - 🦴 [손뼈 이미지 분할 프로젝트](https://github.com/jihyun-0611/level2-semanticsegmentation/blob/main/docs/README.md)
 
 
-- 🧃 [재활용 품목 Object Detection](https://github.com/jihyun-0611/level2-objectdetection)
-
+- 🧃 [재활용 품목 Object Detection](https://github.com/jihyun-0611/level2-objectdetection/tree/main/docs)
 
 
 
