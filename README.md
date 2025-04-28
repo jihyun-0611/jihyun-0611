@@ -10,9 +10,6 @@ AI/Computer Vision Engineer 🧠
 
 ## ✨ Key Links
 
-🍀 **기록 노트**: [Notion / Obsidian 정리 예정]  
-📘 **기술 블로그**: [your-blog.com](https://your-blog.com) (작성 중)
-
 🛠️ **Recent Projects**
 
 - 🎯 [Skeleton Tracking 자세 평가 시스템](https://github.com/jihyun-0611/track-fit).
