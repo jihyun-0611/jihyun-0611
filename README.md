@@ -18,7 +18,7 @@ AI/Computer Vision Engineer 🧠
 - 🧠 [LLM 기반 민감 발언 탐지 시스템](https://github.com/jihyun-0611/level4-hackathon/tree/refactor-36/improve-model-performance-of-reward-system/reward_systems)  
 
 
-- 🦴 [손뼈 이미지 분할 프로젝트](https://github.com/jihyun-0611/level2-semanticsegmentation)
+- 🦴 [손뼈 이미지 분할 프로젝트](https://github.com/jihyun-0611/level2-semanticsegmentation/blob/main/docs/README.md)
 
 
 - 🧃 [재활용 품목 Object Detection](https://github.com/jihyun-0611/level2-objectdetection)
