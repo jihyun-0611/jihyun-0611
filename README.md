@@ -12,7 +12,7 @@ AI/Computer Vision Engineer 🧠
 
 🛠️ **Recent Projects**
 
-- 🎯 [Skeleton Tracking 자세 평가 시스템](https://github.com/jihyun-0611/track-fit).
+- 🎯 [Skeleton 기반 운동 자세 평가 시스템](https://github.com/jihyun-0611/track-fit).
 
 
 - 🧠 [LLM 기반 민감 발언 탐지 시스템](https://github.com/jihyun-0611/level4-hackathon)  
