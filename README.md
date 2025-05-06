@@ -11,7 +11,7 @@ AI/Computer Vision Engineer 🧠
 
 ## ✨ Key Links
 
-- [블로그](https://inside-an.tistory.com/)
+- [블로그](https://velog.io/@inside-a/posts)
 
 🛠️ **Recent Projects**
 
