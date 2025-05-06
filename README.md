@@ -4,11 +4,14 @@
 
 AI/Computer Vision Engineer 🧠  
 
+
 </div>
 
 ---
 
 ## ✨ Key Links
+
+- [블로그](https://inside-an.tistory.com/)
 
 🛠️ **Recent Projects**
 
