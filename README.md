@@ -24,6 +24,9 @@ AI/Computer Vision Engineer 🧠
 - 🦴 [손뼈 이미지 분할 프로젝트](https://github.com/jihyun-0611/level2-semanticsegmentation)
 
 
+- 📰 [Data-centric 다국어 영수증 OCR](https://github.com/jihyun-0611/level2-datacentric)
+
+
 - 🧃 [재활용 품목 Object Detection](https://github.com/jihyun-0611/level2-objectdetection)
 
 
